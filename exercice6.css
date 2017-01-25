@@ -1,0 +1,53 @@
+#green {
+  background-color: #2ECC71;
+  height: 50px;
+  margin-right: 20%;
+}
+#blue {
+  background-color: #2980B9;
+  height: 50px;
+  margin-left: 80%;
+  margin-top: -50px;
+}
+#red {
+  background-color: #E74C3C;
+  height: 150px;
+  margin-right: 66.66%;
+}
+#orangepale {
+  background-color: #E67E22;
+  height: 75px;
+  margin-top: -150px;
+  margin-left: 33.34%;
+  margin-right: 33.33%;
+}
+#grey {
+  background-color: #95A5A6;
+  height: 75px;
+  margin-top: -75px;
+  margin-left: 66.67%;
+}
+#orangeclair {
+  background-color: #F39C12;
+  height: 75px;
+  margin-left: 33.34%;
+  margin-right: 44.44%;
+}
+#pers {
+  background-color: #16A085;
+  height: 75px;
+  margin-left: 55.56%;
+  margin-right: 22.22%;
+  margin-top: -75px;
+}
+#orangefoncé {
+  background-color: #D35400;
+  margin-left: 77.78%;
+  height: 75px;
+  margin-top: -75px;
+}
+#marine {
+  background-color: #2C3E50;
+  height: 200px;
+  margin-right: 0%;
+}
